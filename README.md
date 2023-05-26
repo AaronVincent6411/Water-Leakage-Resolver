@@ -1,2 +1,2 @@
 # Water-Leakage-Resolver
-GDSC ASIET Team Project
+GDSC ASIET Technical Team Project
